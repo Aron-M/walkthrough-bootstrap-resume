@@ -57,3 +57,16 @@
     margin-bottom: 90px;
     color: #fff;
   }
+
+  .list-inline-item:not(:last-child) {
+    margin: 0;
+  }
+
+  .menucontainer {
+    font-size: 0;
+  }
+
+  #nav li {
+    font-size: 14px;
+    padding:0;
+  }
