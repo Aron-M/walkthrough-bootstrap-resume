@@ -52,8 +52,8 @@
   }
 
   .logo {
-    background: url(../images/balsamiq.png);
-    background-position: center;
+    background: url(../images/aron-face-image.jpg);
+    background-position: 10% 30%;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 360px;
