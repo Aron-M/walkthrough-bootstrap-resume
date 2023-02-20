@@ -78,7 +78,7 @@
     background: url(../images/aron-face-image.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -220,3 +220,4 @@
     margin-bottom:15px;
     margin-right: 0;
   }
+
